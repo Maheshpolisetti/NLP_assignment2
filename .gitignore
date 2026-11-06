@@ -1,0 +1,12 @@
+# Outputs / checkpoints
+task2/outputs/
+task3/outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
